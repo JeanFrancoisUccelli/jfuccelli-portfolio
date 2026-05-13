@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Réalisations",
+    "certifications": "Certifications",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Disponible pour échanger",
+    "cta_contact": "Me contacter",
+    "cta_cv": "Télécharger le CV",
+    "cta_linkedin": "LinkedIn"
+  },
+  "contact": {
+    "name": "Nom",
+    "email": "Email",
+    "company": "Société (optionnel)",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi…"
+  },
+  "merci": {
+    "title": "Message envoyé",
+    "subtitle": "Je reviens vers vous sous 48h.",
+    "back": "← Retour à l'accueil"
+  },
+  "footer": {
+    "rights": "© 2026 Jean-François Uccelli",
+    "copy_email": "Copier l'email",
+    "email_copied": "Copié ✓"
+  }
+}
